@@ -1,0 +1,22 @@
+﻿生成启动时间为 2016/12/5 16:26:08。
+     1>项目“C:\Users\user\Documents\Visual Studio 2010\Projects\array\array\array.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\array.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "class array.cpp"
+         class array.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(13): error C2365: “student::id”: 重定义；以前的定义是“成员函数”
+                 c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(5) : 参见“student::id”的声明
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(18): error C2628: “student”后面接“int”是非法的(是否忘记了“;”?)
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(18): error C3874: “main”的返回类型应为“int”而非“student”
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(5): error C3867: “student::id”: 函数调用缺少参数列表；请使用“&student::id”创建指向成员的指针
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(5): error C2171: “++”:“int (__thiscall student::* )(void)”类型的操作数非法
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(5): error C2105: “++”需要左值
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(7): error C3867: “student::id”: 函数调用缺少参数列表；请使用“&student::id”创建指向成员的指针
+     1>c:\users\user\documents\visual studio 2010\projects\array\array\class array.cpp(7): error C2440: “return”: 无法从“int (__thiscall student::* )(void)”转换为“int”
+                 没有使该转换得以执行的上下文
+     1>已完成生成项目“C:\Users\user\Documents\Visual Studio 2010\Projects\array\array\array.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.84

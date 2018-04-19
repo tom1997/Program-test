@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/10/16 17:17:04。
+     1>项目“C:\Users\user\Documents\Visual Studio 2010\Projects\Menu\Menu\Menu.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Menu.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt "simple menu.cpp" /clr:nostdlib 
+         simple menu.cpp
+     1>simple menu.cpp(5): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。请改用“__noop”内部函数
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\user\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2010\Projects\Menu\Debug\Menu.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Menu.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2010\Projects\Menu\Debug\Menu.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 "Debug\simple menu.obj"
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Menu.vcxproj -> C:\Users\user\Documents\Visual Studio 2010\Projects\Menu\Debug\Menu.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\Documents\Visual Studio 2010\Projects\Menu\Debug\Menu.exe;#1" /manifest Debug\Menu.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Menu.unsuccessfulbuild”。
+         正在对“Debug\Menu.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\user\Documents\Visual Studio 2010\Projects\Menu\Menu\Menu.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.95

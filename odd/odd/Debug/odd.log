@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/3/16 22:59:06。
+     1>项目“C:\Users\user\Documents\Visual Studio 2010\Projects\odd\odd\odd.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\odd.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt oddandeven.cpp
+         oddandeven.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2010\Projects\odd\Debug\odd.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\odd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2010\Projects\odd\Debug\odd.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2010\Projects\odd\Debug\odd.lib" /MACHINE:X86 Debug\oddandeven.obj
+         LINK : 没有找到 C:\Users\user\Documents\Visual Studio 2010\Projects\odd\Debug\odd.exe 或上一个增量链接没有生成它；正在执行完全链接
+         odd.vcxproj -> C:\Users\user\Documents\Visual Studio 2010\Projects\odd\Debug\odd.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\Documents\Visual Studio 2010\Projects\odd\Debug\odd.exe;#1" /manifest Debug\odd.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\odd.unsuccessfulbuild”。
+         正在对“Debug\odd.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\user\Documents\Visual Studio 2010\Projects\odd\odd\odd.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.86

@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/1/13 9:33:12。
+     1>项目“C:\Users\user\Documents\Visual Studio 2010\Projects\c\dianzi\dianzi.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\dianzi.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt c.cpp
+         c.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\c\dianzi\c.cpp : error C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+     1>c:\users\user\documents\visual studio 2010\projects\c\dianzi\c.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>已完成生成项目“C:\Users\user\Documents\Visual Studio 2010\Projects\c\dianzi\dianzi.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.46
