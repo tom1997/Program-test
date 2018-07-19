@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/5/24 23:40:59。
+     1>项目“C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Common Substring\Common Substring\Common Substring.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Common Substring.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt common_string.cpp
+         common_string.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(15): error C2065: “dp”: 未声明的标识符
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(15): error C2065: “dp”: 未声明的标识符
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(18): error C2065: “dp”: 未声明的标识符
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(18): error C2065: “dp”: 未声明的标识符
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(18): error C2065: “dp”: 未声明的标识符
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(18): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr)”: 应输入 3 个参数，却提供了 2 个
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2086) : 参见“std::max”的声明
+     1>c:\users\user\documents\visual studio 2010\projects\program-test\common substring\common substring\common_string.cpp(23): error C2065: “dp”: 未声明的标识符
+     1>已完成生成项目“C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Common Substring\Common Substring\Common Substring.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.63

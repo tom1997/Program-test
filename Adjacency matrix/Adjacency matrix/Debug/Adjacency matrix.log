@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/7/18 15:26:24。
+     1>项目“C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Adjacency matrix\Adjacency matrix.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Adjacency matrix.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\..\Downloads\Compressed\数据结构（C++版）第2版（王红梅）(不断更新版）)\24416数据结构（第2版）\数据结构程序（简版）\邻接矩阵验证实验\MGraphmain.cpp"
+         MGraphmain.cpp
+     1>c:\users\user\downloads\compressed\数据结构（c++版）第2版（王红梅）(不断更新版）)\24416数据结构（第2版）\数据结构程序（简版）\邻接矩阵验证实验\mgraphmain.cpp(49): warning C4101: “s”: 未引用的局部变量
+                 c:\users\user\downloads\compressed\数据结构（c++版）第2版（王红梅）(不断更新版）)\24416数据结构（第2版）\数据结构程序（简版）\邻接矩阵验证实验\mgraphmain.cpp(48): 编译类 模板 成员函数“ALGraph<DataType>::ALGraph(DataType [],int,int)”时
+                 with
+                 [
+                     DataType=char
+                 ]
+                 c:\users\user\downloads\compressed\数据结构（c++版）第2版（王红梅）(不断更新版）)\24416数据结构（第2版）\数据结构程序（简版）\邻接矩阵验证实验\mgraphmain.cpp(31): 参见对正在编译的类 模板 实例化“ALGraph<DataType>”的引用
+                 with
+                 [
+                     DataType=char
+                 ]
+     1>c:\users\user\downloads\compressed\数据结构（c++版）第2版（王红梅）(不断更新版）)\24416数据结构（第2版）\数据结构程序（简版）\邻接矩阵验证实验\mgraphmain.cpp(50): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\user\downloads\compressed\数据结构（c++版）第2版（王红梅）(不断更新版）)\24416数据结构（第2版）\数据结构程序（简版）\邻接矩阵验证实验\mgraphmain.cpp(50): warning C4101: “j”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Debug\Adjacency matrix.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Adjacency matrix.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Debug\Adjacency matrix.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Debug\Adjacency matrix.lib" /MACHINE:X86 Debug\MGraph.obj
+         Debug\MGraphmain.obj
+         LINK : 没有找到 C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Debug\Adjacency matrix.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Adjacency matrix.vcxproj -> C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Debug\Adjacency matrix.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Debug\Adjacency matrix.exe;#1" /manifest "Debug\Adjacency matrix.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Adjacency matrix.unsuccessfulbuild”。
+         正在对“Debug\Adjacency matrix.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\user\Documents\Visual Studio 2010\Projects\Program-test\Adjacency matrix\Adjacency matrix\Adjacency matrix.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.93

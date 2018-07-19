@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "direct insertion sort", "direct insertion sort\direct insertion sort.vcxproj", "{367DE933-830F-42A5-98B9-A168BE7115FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367DE933-830F-42A5-98B9-A168BE7115FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{367DE933-830F-42A5-98B9-A168BE7115FB}.Debug|Win32.Build.0 = Debug|Win32
+		{367DE933-830F-42A5-98B9-A168BE7115FB}.Release|Win32.ActiveCfg = Release|Win32
+		{367DE933-830F-42A5-98B9-A168BE7115FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

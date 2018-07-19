@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BiNodeSearch", "BiNodeSearch\BiNodeSearch.vcxproj", "{44BEF4C8-F714-4B06-ACF2-5DD82A63EDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BEF4C8-F714-4B06-ACF2-5DD82A63EDFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44BEF4C8-F714-4B06-ACF2-5DD82A63EDFB}.Debug|Win32.Build.0 = Debug|Win32
+		{44BEF4C8-F714-4B06-ACF2-5DD82A63EDFB}.Release|Win32.ActiveCfg = Release|Win32
+		{44BEF4C8-F714-4B06-ACF2-5DD82A63EDFB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
